@@ -40,7 +40,7 @@ _:act a prov:Activity ;
 
 method: a prov:Plan ;
     rdfs:label "Scripted and manual label comparison" ;
-    prov:value <https://github.com/nicholascar/agiftcrsth2-linkset/method.md> ;
+    prov:value <https://github.com/nicholascar/agiftcrsth2-linkset/blob/master/method.md> ;
     rdfs:comment "The method used to create this linkset, described in text. This is the same as the method used for the original AGIFT / CRS Thesaurus Linkset with the single additional step of removing AGIFT URI artifacts." ;
     prov:wasAttributedTo :nick ;
     prov:generatedAtTime "2019-04-05"^^xsd:date .
